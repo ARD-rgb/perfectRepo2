@@ -1,0 +1,14 @@
+{
+  "name": "prorepo",
+  "version": "1.0.0",
+  "description": "test",
+  "scripts": {
+    "start": "parcel  index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "Ashutosh Dhok",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.8.2"
+  }
+}
