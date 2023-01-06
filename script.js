@@ -1,1 +1,2 @@
 console.log("LOCAL SERVER CHECK");
+console.log("CONTINUOUS INTEGRATIO CHECK");
